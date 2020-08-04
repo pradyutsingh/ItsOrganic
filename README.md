@@ -3,6 +3,10 @@
 This is a cross platform flutter app for both iOS and android with firebase backend. This is an open e-commerce app for organic products in which users can order products and also add their own products to the marketplace. This app showcases by skills in designing beautiful apps with emmersive UI,effective state management and connection with backend for authentication ,data retrieval and storage.
 
 ![App demo](https://github.com/pradyutsingh/ItsOrganic/blob/master/demo1.jpeg)
+![App demo](https://github.com/pradyutsingh/ItsOrganic/blob/master/demo2.jpeg)
+![App demo](https://github.com/pradyutsingh/ItsOrganic/blob/master/demo3.jpeg)
+![App demo](https://github.com/pradyutsingh/ItsOrganic/blob/master/demo4.jpeg)
+![App demo](https://github.com/pradyutsingh/ItsOrganic/blob/master/demo5.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
